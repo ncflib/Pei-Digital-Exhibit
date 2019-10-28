@@ -11,9 +11,9 @@ note: Collection of black and white photos taken in 1964 of the construction of 
   Pei dorms.
 license: CC0
 order: '1'
-layout: qatar_item
+layout: item
 collection: pei
-thumbnail: 
-full: 
-manifest: 
+thumbnail: img/derivatives/simple/obj2_04/thumbnail.jpg
+full: img/derivatives/simple/obj2_04/full.jpg
+manifest: "/img/derivatives/iiif/obj2/manifest.json"
 ---

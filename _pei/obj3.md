@@ -10,9 +10,9 @@ source: http://ncf.sobek.ufl.edu/AA00026460/00001
 note: Color photograph of Pei dorm model.
 license: CC0
 order: '2'
-layout: qatar_item
+layout: item
 collection: pei
-thumbnail: 
-full: 
-manifest: 
+thumbnail: img/derivatives/simple/obj3_04/thumbnail.jpg
+full: img/derivatives/simple/obj3_04/full.jpg
+manifest: "/img/derivatives/iiif/obj3/manifest.json"
 ---

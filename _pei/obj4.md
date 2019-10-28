@@ -11,9 +11,9 @@ note: Black and white photographs from the public presentation of the model of e
   Campus, January 20, 1964.
 license: CC0
 order: '3'
-layout: qatar_item
+layout: item
 collection: pei
-thumbnail: 
-full: 
-manifest: 
+thumbnail: img/derivatives/simple/obj4_08/thumbnail.jpg
+full: img/derivatives/simple/obj4_08/full.jpg
+manifest: "/img/derivatives/iiif/obj4/manifest.json"
 ---

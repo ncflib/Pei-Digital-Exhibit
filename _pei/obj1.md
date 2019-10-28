@@ -13,9 +13,9 @@ note: 'Black and white photograph of the announcement of New College architect S
   John W. Gustad.'
 license: CC0
 order: '0'
-layout: qatar_item
+layout: item
 collection: pei
-thumbnail: 
-full: 
-manifest: 
+thumbnail: img/derivatives/simple/obj1_00/thumbnail.jpg
+full: img/derivatives/simple/obj1_00/full.jpg
+manifest: "/img/derivatives/iiif/obj1/manifest.json"
 ---

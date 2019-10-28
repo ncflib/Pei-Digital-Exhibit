@@ -11,9 +11,9 @@ note: Black and white negatives from the selection announcement of I. M. Pei as 
   New College architect on September 23, 1963.
 license: CC0
 order: '4'
-layout: qatar_item
+layout: item
 collection: pei
-thumbnail: 
-full: 
-manifest: 
+thumbnail: img/derivatives/simple/obj5_46/thumbnail.jpg
+full: img/derivatives/simple/obj5_46/full.jpg
+manifest: "/img/derivatives/iiif/obj5/manifest.json"
 ---

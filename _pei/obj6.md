@@ -11,9 +11,9 @@ note: Photographs from I. M. Pei's presentation of East Campus model, January 20
   1964.
 license: CC0
 order: '5'
-layout: qatar_item
+layout: item
 collection: pei
-thumbnail: 
-full: 
-manifest: 
+thumbnail: img/derivatives/simple/obj6_19/thumbnail.jpg
+full: img/derivatives/simple/obj6_19/full.jpg
+manifest: "/img/derivatives/iiif/obj6/manifest.json"
 ---

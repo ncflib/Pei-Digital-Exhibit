@@ -10,9 +10,9 @@ source: http://ncf.sobek.ufl.edu/AA00026457/00001
 note: 7 page news release.
 license: CC0
 order: '7'
-layout: qatar_item
+layout: item
 collection: pei
-thumbnail: 
-full: 
-manifest: 
+thumbnail: img/derivatives/simple/obj8_04/thumbnail.jpg
+full: img/derivatives/simple/obj8_04/full.jpg
+manifest: "/img/derivatives/iiif/obj8/manifest.json"
 ---

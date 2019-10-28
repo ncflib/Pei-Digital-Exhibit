@@ -10,9 +10,9 @@ source:
 note: 
 license: 
 order: '6'
-layout: qatar_item
+layout: item
 collection: pei
-thumbnail: 
-full: 
-manifest: 
+thumbnail: img/derivatives/simple/obj7_04/thumbnail.jpg
+full: img/derivatives/simple/obj7_04/full.jpg
+manifest: "/img/derivatives/iiif/obj7/manifest.json"
 ---
